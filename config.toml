@@ -1,7 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://moamenhredeen.github.io/'
 languageCode = 'en-us'
 title = 'Moamen Blog'
 theme = "loveit"
+publishDir = "docs"
 
 [menu] 
     [[menu.main]]

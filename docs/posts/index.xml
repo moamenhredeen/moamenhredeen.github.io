@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Moamen Blog</title>
+        <link>http://moamenhredeen.github.io/posts/</link>
+        <description>All Posts | Moamen Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="http://moamenhredeen.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Quick Sort</title>
+    <link>http://moamenhredeen.github.io/quick-sort/</link>
+    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
+    <author>Moamen Hraden</author>
+    <guid>http://moamenhredeen.github.io/quick-sort/</guid>
+    <description><![CDATA[first heading Voluptate sint fugiat tempor fugiat. Deserunt excepteur do amet nisi consequat culpa consectetur sint velit do nisi magna cupidatat. Ut nisi anim cillum exercitation aute laboris ullamco Lorem qui do minim eiusmod fugiat occaecat. Quis ut duis sunt pariatur laboris.
+Labore sunt excepteur in minim ut ex. Aliquip dolore velit enim ex eiusmod minim esse dolor elit voluptate veniam adipisicing laborum. Exercitation et non nostrud cillum culpa. Ullamco pariatur voluptate veniam aliqua tempor deserunt dolore incididunt commodo.]]></description>
+</item>
+<item>
+    <title>Vim ❤ Intellij</title>
+    <link>http://moamenhredeen.github.io/ideavim/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://moamenhredeen.github.io/ideavim/</guid>
+    <description><![CDATA[something Why not support earlier versions of Hugo?  Since Markdown Render Hooks was introduced in the Hugo Christmas Edition, this theme only supports Hugo versions above 0.62.0.   Hugo extended version is recommended  Since some features of this theme need to processes <i class="fab fa-sass fa-fw" aria-hidden="true"></i>&nbsp;SCSS to <i class="fab fa-css3 fa-fw" aria-hidden="true"></i>&nbsp;CSS, it is recommended to use Hugo extended version for better experience.   ]]></description>
+</item>
+</channel>
+</rss>
